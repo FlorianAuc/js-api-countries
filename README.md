@@ -3,7 +3,7 @@
 
 - Type of challenge: **learning**
 - Repository : **`js-api-pays`**
-- Site : https://florianauc.github.io/js-api-pays/
+- Site : https://florianauc.github.io/js-api-countries/
 
 
 * * *
